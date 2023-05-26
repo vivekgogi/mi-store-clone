@@ -2,6 +2,8 @@
 
 The MI Store Clone is a captivating React-based project replicates the sleek and user-friendly interface of the renowned Mi Store website. Offering a highly responsive and intuitive user experience closely resembling the original site.
 
+Link: https://mi-india-store-clone-vivekgogi.netlify.app/
+
 ## Technologies Used
 
 - **React**: A powerful JavaScript library for building dynamic user interfaces.
