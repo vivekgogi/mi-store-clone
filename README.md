@@ -15,10 +15,6 @@ Link: https://mi-india-store-clone-vivekgogi.netlify.app/
 - **Git**: Version control system for tracking changes and facilitating collaboration.
 - **GitHub**: Platform for hosting and sharing the project repository.
 
-## Demo
-
-Check out the live demo of the MI Store Clone: [Live Demo](https://your-demo-link.com)
-
 ## Installation
 
 Follow these steps to set up the MI Store Clone on your local machine:
